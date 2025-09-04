@@ -1,3 +1,3 @@
 [submodule "deployment-changedetection"]
-	path = deployment-changedetection
+	path = Kubernetes/deployment-changedetection
 	url = git@github.com:Kiskadee-dev/deployment-changedetection.git
