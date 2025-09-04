@@ -1,0 +1,3 @@
+[submodule "deployment-changedetection"]
+	path = deployment-changedetection
+	url = git@github.com:Kiskadee-dev/deployment-changedetection.git
